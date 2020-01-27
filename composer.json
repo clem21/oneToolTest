@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "^7.4",
+        "kickbox/kickbox": "^2.2"
+    }
+}
